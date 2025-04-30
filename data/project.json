@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "rmiller78",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168940915?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "rmiller78",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-04-30T20:35:14.892Z",
-    "updated_at": "2025-04-30T20:35:14.892Z"
-  }
+    "updated_at": "2025-04-30T20:35:14.892Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "c65c9161-7f02-4df9-86cb-bd8b46814815": {
+      "content": [],
+      "created_at": "2025-04-30T20:35:14.937Z",
+      "created_by": "rmiller78",
+      "title": "Globalization",
+      "updated_at": "2025-04-30T20:35:14.937Z",
+      "updated_by": "rmiller78",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "c65c9161-7f02-4df9-86cb-bd8b46814815"
+  ]
 }
