@@ -1,0 +1,36 @@
+{
+  "audiovisual_files": {
+    "806673d4-aa06-4f1a-a32b-276312fc4a21": {
+      "label": "Test Clip ",
+      "is_offline": false,
+      "file_url": "{   \"@context\": [     \"http://www.w3.org/ns/anno.jsonld\",     \"http://iiif.io/api/presentation/3/context.json\"   ],   \"id\": \"https://example.org/iiif/cpb-aacip-15-80ht7n4v/manifest.json\",   \"type\": \"Manifest\",   \"label\": {     \"en\": [\"AAPB Clip: American Archive - cpb-aacip-15-80ht7n4v\"]   },   \"summary\": {     \"en\": [\"Excerpt from the American Archive of Public Broadcasting, starting at 463.11 seconds.\"]   },   \"items\": [     {       \"id\": \"https://example.org/iiif/cpb-aacip-15-80ht7n4v/canvas/1\",       \"type\": \"Canvas\",       \"duration\": 836.91,       \"label\": { \"en\": [\"Video Segment\"] },       \"items\": [         {           \"id\": \"https://example.org/iiif/cpb-aacip-15-80ht7n4v/canvas/1/annotation-page/1\",           \"type\": \"AnnotationPage\",           \"items\": [             {               \"id\": \"https://example.org/iiif/cpb-aacip-15-80ht7n4v/canvas/1/annotation/1\",               \"type\": \"Annotation\",               \"motivation\": \"painting\",               \"body\": {                 \"id\": \"https://example.org/media/aapb-clip.mp4\",                 \"type\": \"Video\",                 \"format\": \"video/mp4\",                 \"label\": { \"en\": [\"AAPB Sample Clip\"] },                 \"duration\": 836.91               },               \"target\": \"https://example.org/iiif/cpb-aacip-15-80ht7n4v/canvas/1\"             }           ]         }       ]     }   ] }",
+      "duration": 90,
+      "caption_set": []
+    },
+    "a485021b-aebd-4a04-856b-b2e13624259a": {
+      "label": "",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 0,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "Test Clip ",
+  "created_at": "2025-04-30T20:48:15.086Z",
+  "created_by": "rmiller78",
+  "updated_at": "2025-04-30T20:48:15.086Z",
+  "updated_by": "rmiller78"
+}

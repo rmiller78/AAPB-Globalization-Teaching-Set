@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-04-30T20:48:15.400Z",
+  "created_by": "rmiller78",
+  "title": "Test Clip ",
+  "slug": "test-clip",
+  "updated_at": "2025-04-30T20:48:15.400Z",
+  "updated_by": "rmiller78",
+  "parent": "c65c9161-7f02-4df9-86cb-bd8b46814815",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "5e7dbc90-c09d-4824-9366-782e935a632e"
+  }
+}
