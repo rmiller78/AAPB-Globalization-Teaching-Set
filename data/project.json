@@ -14,8 +14,8 @@
   "project": {
     "github_org": "rmiller78",
     "is_private": false,
-    "title": "Globalization",
-    "description": "Ben Leff's teaching set",
+    "title": "Globalization and the Debate over “Free Trade”",
+    "description": "Ben Leff's teaching set on globalization and the debate over \"free trade\" as reported by American public media between 1950 and 2022.",
     "language": "en",
     "slug": "AAPB-Globalization-Teaching-Set",
     "creator": "rmiller78",
@@ -28,7 +28,7 @@
       "tags": []
     },
     "created_at": "2025-04-30T20:35:14.892Z",
-    "updated_at": "2025-04-30T21:01:18.231Z",
+    "updated_at": "2025-12-02T19:39:06.740Z",
     "generate_pages_site": true
   },
   "annotations": {},
